@@ -62,3 +62,6 @@ d) run the docker image to create a docker container
 e) Enable host port number in security group inbound rules and access our application
 
 		URL : http://public-ip:host-port/war-file-name/
+
+
+![image](https://github.com/user-attachments/assets/f9959013-bac7-46de-af27-634780b868a2)
