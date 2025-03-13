@@ -1,4 +1,4 @@
-deploying a basic web in docker container it is based on java
+deploying a basic web app in docker container it is based on java
 
 Java Web App Git Repo : https://github.com/Saiprasad-1727/docker-web-app.git
 
