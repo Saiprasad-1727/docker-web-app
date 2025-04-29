@@ -1,4 +1,4 @@
-#Install docker software with following command
+Install docker software with following command
 
 yum install -y docker
 
@@ -55,7 +55,8 @@ CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS       
 aa0a7554ce5c   nginx     "/docker-entrypoint.…"   4 seconds ago    Up 3 seconds    0.0.0.0:8080->80/tcp, :::8080->80/tcp   clever_hodgkin
 f5683f312da2   nginx     "/docker-entrypoint.…"   57 seconds ago   Up 55 seconds   80/tcp                                  optimistic_fermat
 
- 
+ ![image](https://github.com/user-attachments/assets/bb4fbbf6-bd41-4464-8d53-d65c656874d1)
+
 
 Install git package for cloning the any git repos
 
@@ -176,6 +177,9 @@ f5683f312da2   nginx     "/docker-entrypoint.…"   20 minutes ago   Up 20 minut
 how to check the hosted app 
 
 http://<public-ip>:8080/maven-web-app
+
+![image](https://github.com/user-attachments/assets/e5b458d6-b636-4dd9-a3b6-653050b8b949)
+
 
 
 
